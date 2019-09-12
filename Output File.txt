@@ -1,0 +1,80 @@
+{ : LeftBracket
+
+} : RightBracket
+
+read : ReservedWord
+
+x : Identifier
+
+; : SpecialSymbol
+
+{ : LeftBracket
+
+} : RightBracket
+
+if : ReservedWord
+
+0 : Number
+
+< : SpecialSymbol
+
+x : Identifier
+
+then : ReservedWord
+
+{ : LeftBracket
+
+} : RightBracket
+
+fact : Identifier
+
+:= : SpecialSymbol
+
+1 : Number
+
+; : SpecialSymbol
+
+repeat : ReservedWord
+
+fact : Identifier
+
+:= : SpecialSymbol
+
+fact : Identifier
+
+* : SpecialSymbol
+
+x : Identifier
+
+; : SpecialSymbol
+
+x : Identifier
+
+:= : SpecialSymbol
+
+x : Identifier
+
+- : SpecialSymbol
+
+1 : Number
+
+until : ReservedWord
+
+x : Identifier
+
+= : SpecialSymbol
+
+0 : Number
+
+; : SpecialSymbol
+
+write : ReservedWord
+
+fact : Identifier
+
+{ : LeftBracket
+
+} : RightBracket
+
+end : ReservedWord
+
